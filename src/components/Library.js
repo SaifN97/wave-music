@@ -1,6 +1,5 @@
 import React from "react";
 import LibrarySong from "./LibrarySong";
-import Song from "./Song";
 
 const Library = ({
   songs,
